@@ -14,7 +14,7 @@
 - 💻 Aprimorar conhecimento a respeito de linguagens de programação
 - 🔍 Conseguir estagiar na área da TI
 
-## Linguagens de programação ⌨️
+## Linguagens de programação que pretendo aprender em um futuro próximo ⌨️
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
