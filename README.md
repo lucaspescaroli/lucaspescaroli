@@ -24,3 +24,5 @@
 
 
 ## **Obrigado por visitar meu perfil, até a próxima! 🫡**
+
+![snake gif](https://github.com/lucaspescaroli/lucaspescaroli/blob/output/github-snake-dark.svg)
